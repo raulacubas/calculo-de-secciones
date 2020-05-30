@@ -1,8 +1,9 @@
-package com.example.secciondeconductores
+package com.example.secciondeconductores.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import com.example.secciondeconductores.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
